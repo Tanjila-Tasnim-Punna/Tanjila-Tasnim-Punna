@@ -1,16 +1,17 @@
-## Hi there 👋
+Welcome to my GitHub!
 
-<!--
-**Tanjila-Tasnim-Punna/Tanjila-Tasnim-Punna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Machine Learning student passionate about using AI to solve real-world problems.
 
-Here are some ideas to get you started:
+ Research Interests
+- Educational Data Mining
+- Explainable AI (XAI)
+- Computer Vision
+- Student Performance Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Work
+- Educational datasets analysis
+- Machine learning experiments
+- Academic research projects
+
+ Goal
+To contribute to impactful AI research and build solutions that improve education and society.
