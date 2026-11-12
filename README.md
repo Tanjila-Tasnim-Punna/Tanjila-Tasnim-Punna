@@ -160,10 +160,11 @@ Shows tokens, the symbol table, a D3 parse tree, three-address code and assembly
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanjila-Tasnim-Punna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=Tanjila-Tasnim-Punna&theme=tokyonight&hide_border=true" />
+<img width="95%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanjila-Tasnim-Punna&theme=tokyo-night&hide_border=true&area=true" />
+<img height="165" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="165" src="https://streak-stats.demolab.com?user=Tanjila-Tasnim-Punna&theme=tokyonight&hide_border=true" />
+<img height="165" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 
 </div>
 
